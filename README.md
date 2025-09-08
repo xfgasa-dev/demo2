@@ -1,5 +1,9 @@
 # demo2
 
+<div align="center">
+  <img src="assets/logo.png" alt="Demo2 Logo" width="200"/>
+</div>
+
 A simple Python Hello World demonstration project.
 
 ## Installation
@@ -31,6 +35,14 @@ A simple Python Hello World demonstration project.
    chmod +x hello_world.py
    ```
 
+### Project Structure
+
+<div align="center">
+  <img src="assets/project_structure.png" alt="Project Structure" width="400"/>
+</div>
+
+The project contains a simple Python script and this documentation.
+
 ## Usage
 
 Run the Hello World script:
@@ -47,7 +59,17 @@ Or if you made it executable:
 
 ## Expected Output
 
+When you run the script, you should see the following output:
+
 ```
 Hello, World!
 Welcome to Python programming!
 ```
+
+### Demo Screenshot
+
+<div align="center">
+  <img src="assets/demo_output.png" alt="Demo Output Screenshot" width="600"/>
+</div>
+
+*Screenshot showing the actual program execution and output*
